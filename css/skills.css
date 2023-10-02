@@ -17,6 +17,11 @@
   border-radius: 42px;
   padding: 0.5em 0.7em;
   margin: 10px;
+  cursor: pointer;
+}
+
+.skills-skill:hover {
+  filter: brightness(130%);
 }
 
 .skills-list {
