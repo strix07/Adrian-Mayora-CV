@@ -27,25 +27,33 @@
   margin: 25px;
 }
 
-.estudio-date {
+.estudio-school-date,
+.estudio-university-date,
+.estudio-intership-date {
   font-size: 25px;
   font-weight: bold;
   color: var(--secondary-color);
 }
 
-.estudio-company {
+.estudio-school,
+.estudio-university,
+.estudio-intership {
   font-size: 20px;
   text-transform: uppercase;
   margin-top: 5px;
 }
 
-.estudio-position {
+.estudio-school-position,
+.estudio-university-position,
+.estudio-intership-position {
   font-weight: 500;
   font-size: 18px;
   margin-top: 20px;
 }
 
-.estudio-description {
+.estudio-school-description,
+.estudio-university-description,
+.estudio-intership-description {
   font-weight: 400;
   font-size: 15px;
   margin-top: 10px;
@@ -63,21 +71,29 @@
     margin: 35px 0;
   }
 
-  .estudio-date {
+  .estudio-school-date,
+  .estudio-university-date,
+  .estudio-intership-date {
     font-size: 40px;
   }
 
-  .estudio-company {
+  .estudio-school,
+  .estudio-university,
+  .estudio-intership {
     font-size: 25px;
   }
 
-  .estudio-position {
+  .estudio-school-position,
+  .estudio-university-position,
+  .estudio-intership-position {
     font-weight: bold;
     font-size: 20px;
     margin-top: 20px;
   }
 
-  .estudio-description {
+  .estudio-school-description,
+  .estudio-university-description,
+  .estudio-intership-description {
     font-size: 20px;
     margin-top: 10px;
     line-height: 1.3;

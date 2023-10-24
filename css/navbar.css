@@ -73,6 +73,20 @@
   color: var(--primary-color);
 }
 
+.lang-switcher {
+  background-color: var(--primary-color);
+  color: var(--text-color-inverse);
+  border: none;
+  font-size: 20px;
+  padding: 0.5em 1em;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.lang-switcher {
+  filter: brightness(130%);
+}
+
 .open-menu,
 .close-menu {
   display: none;
