@@ -68,11 +68,12 @@ function translateToEN() {
   document.querySelector(".skills-title a").textContent = "Download Certificates";
   document.querySelectorAll(".skills-skill")[0].textContent = "IBM Z Xplore Concepts";
   document.querySelectorAll(".skills-skill")[1].textContent = "IBM Z Xplore Advance";
-  document.querySelectorAll(".skills-skill")[2].textContent = "Computer Architecture";
-  document.querySelectorAll(".skills-skill")[3].textContent = "Electronic Service AS1";
-  document.querySelectorAll(".skills-skill")[4].textContent = "Residential Electrical Installations";
-  document.querySelectorAll(".skills-skill")[5].textContent = "Python 101 for Data Science";
-  document.querySelectorAll(".skills-skill")[6].textContent = "High School Diploma";
+  document.querySelectorAll(".skills-skill")[2].textContent = "Level B1 in English on Busuu";
+  document.querySelectorAll(".skills-skill")[3].textContent = "Computer Architecture";
+  document.querySelectorAll(".skills-skill")[4].textContent = "Electronic Service AS1";
+  document.querySelectorAll(".skills-skill")[5].textContent = "Residential Electrical Installations";
+  document.querySelectorAll(".skills-skill")[6].textContent = "Python 101 for Data Science";
+  document.querySelectorAll(".skills-skill")[7].textContent = "High School Diploma";
 
   // ...
   document.querySelector(".contact-title").textContent = "Contact";
@@ -115,11 +116,12 @@ function translateToES() {
   document.querySelector(".skills-title a").textContent = "Descargar Certificados";
   document.querySelectorAll(".skills-skill")[0].textContent = "IBM Z Xplore Concepts";
   document.querySelectorAll(".skills-skill")[1].textContent = "IBM Z Xplore Advance";
-  document.querySelectorAll(".skills-skill")[2].textContent = "Arquitectura de Computadoras";
-  document.querySelectorAll(".skills-skill")[3].textContent = "Electronic Service AS1";
-  document.querySelectorAll(".skills-skill")[4].textContent = "Instalaciones Eléctricas Domiciliarias";
-  document.querySelectorAll(".skills-skill")[5].textContent = "Python 101 para Ciencia de Datos";
-  document.querySelectorAll(".skills-skill")[6].textContent = "Título de Bachiller";
+  document.querySelectorAll(".skills-skill")[2].textContent = "Nivel B1 en Inglés Busuu";
+  document.querySelectorAll(".skills-skill")[3].textContent = "Arquitectura de Computadoras";
+  document.querySelectorAll(".skills-skill")[4].textContent = "Electronic Service AS1";
+  document.querySelectorAll(".skills-skill")[5].textContent = "Instalaciones Eléctricas Domiciliarias";
+  document.querySelectorAll(".skills-skill")[6].textContent = "Python 101 para Ciencia de Datos";
+  document.querySelectorAll(".skills-skill")[7].textContent = "Título de Bachiller";
   document.querySelector(".contact-title").textContent = "Contacto";
   document.querySelectorAll(".contact-label")[0].textContent = "Dirección:";
   document.querySelectorAll(".contact-text")[0].textContent = "Casa n° 51, Calle Vargas y Los Indios, Palmar Este, La Guaira, Venezuela";
