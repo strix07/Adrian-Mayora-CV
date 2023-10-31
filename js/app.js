@@ -58,13 +58,13 @@ function translateToEN() {
   document.querySelector(".estudio-university").textContent = "Simón Bolívar University";
   document.querySelector(".estudio-university-position").textContent = "Higher Technician in Electronics";
   document.querySelector(".estudio-university-description").textContent =
-    "At Simón Bolívar University, my training as a Higher Technician in Electronics allowed me to acquire solid technical skills and foster my passion for electronics and technology. These years were essential for my professional development and commitment to excellence in the field.";
+    "At Simón Bolívar University, my training as a Electronic Technician allowed me to acquire strong technical skills in both hardware and software and foster my passion for technology. These years were crucial for my professional development and commitment to excellence in the field.";
 
   document.querySelector(".estudio-intership-date").textContent = "Apr-Jul 2023";
   document.querySelector(".estudio-intership").textContent = "Electronic Service AS1";
   document.querySelector(".estudio-intership-position").textContent = "Television Repair Technician";
   document.querySelector(".estudio-intership-description").textContent =
-    "At Electronic Service AS1, I had the privilege of working as a Television Repair Technician. During my time there, I acquired in-depth knowledge in identifying and troubleshooting television issues, working with a wide variety of models and technologies. My experience included diagnosis, fault finding, and customer service. This experience strengthened my technical skills and my ability to provide effective hardware solutions.";
+    "At Electronic Service AS1, I had the privilege of working as a Television Repair Technician. During my time there, I acquired in-depth knowledge in identifying and troubleshooting television issues, working with a wide variety of models and technologies. My experience included diagnosis, teamwork, problem-solving, and customer service. This experience strengthened my technical expertise and my ability to provide effective solutions.";
   document.querySelector(".skills-title a").textContent = "Download Certificates";
   document.querySelectorAll(".skills-skill")[0].textContent = "IBM Z Xplore Concepts";
   document.querySelectorAll(".skills-skill")[1].textContent = "IBM Z Xplore Advance";
@@ -107,12 +107,12 @@ function translateToES() {
   document.querySelector(".estudio-university").textContent = "Universidad Simón Bolívar";
   document.querySelector(".estudio-university-position").textContent = "Técnico Superior en Electrónica";
   document.querySelector(".estudio-university-description").textContent =
-    "En la Universidad Simón Bolívar, mi formación como Técnico Superior en Electrónica me permitió adquirir sólidas habilidades técnicas y fomentar mi pasión por la electrónica y la tecnología. Estos años fueron fundamentales para mi desarrollo profesional y compromiso con la excelencia en el campo.";
+    "En la Universidad Simón Bolívar, mi formación como técnico superior en electrónica me permitió adquirir sólidas habilidades técnicas tanto en hardware como en software, y fomentar mi pasión por la tecnología. Estos años fueron fundamentales para mi desarrollo profesional y compromiso con la excelencia en el campo.";
   document.querySelector(".estudio-intership-date").textContent = "Abr-Jul 2023";
   document.querySelector(".estudio-intership").textContent = "Electronic Service AS1";
   document.querySelector(".estudio-intership-position").textContent = "Técnico en reparación de televisores";
   document.querySelector(".estudio-intership-description").textContent =
-    "En Electronic Service AS1, tuve el privilegio de desempeñar el rol de Técnico en Reparación de Televisores. Durante mi tiempo allí, adquirí un profundo conocimiento en la identificación y solución de problemas en televisores, trabajando con una amplia variedad de modelos y tecnologías. Mi experiencia incluyó el diagnóstico, búsqueda de fallas y atención al cliente. Esta experiencia fortaleció mi destreza técnica y mi capacidad para brindar soluciones efectivas en lo que al hardware se refiere.";
+    "En Electronic Service AS1, tuve el privilegio de desempeñar el rol de Técnico en Reparación de Televisores. Durante mi tiempo allí, adquirí un profundo conocimiento en la identificación y solución de problemas en televisores, trabajando con una amplia variedad de modelos y tecnologías. Mi experiencia incluyó el diagnóstico, trabajo en equipo, solución de problemas y atención al cliente. Esta experiencia fortaleció mi destreza técnica y mi capacidad para brindar soluciones efectivas.";
   document.querySelector(".skills-title a").textContent = "Descargar Certificados";
   document.querySelectorAll(".skills-skill")[0].textContent = "IBM Z Xplore Concepts";
   document.querySelectorAll(".skills-skill")[1].textContent = "IBM Z Xplore Advance";
