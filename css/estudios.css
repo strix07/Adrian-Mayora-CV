@@ -34,6 +34,9 @@
   font-weight: bold;
   color: var(--secondary-color);
 }
+.estudio-intership-description a {
+  color: var(--secondary-color);
+}
 
 .estudio-school,
 .estudio-university,

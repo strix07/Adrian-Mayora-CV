@@ -64,7 +64,8 @@ function translateToEN() {
   document.querySelector(".estudio-intership").textContent = "Electronic Service AS1";
   document.querySelector(".estudio-intership-position").textContent = "Television Repair Technician";
   document.querySelector(".estudio-intership-description").textContent =
-    "At Electronic Service AS1, I had the privilege of working as LCD Television Repair Technician. During my time there, I acquired in-depth knowledge in identifying and troubleshooting LCD television issues, working with a wide variety of models and technologies. My experience included diagnosis, teamwork, problem-solving, and customer service. This experience strengthened my technical expertise and my ability to provide effective solutions.";
+    "At Electronic Service AS1, I had the privilege of working as LCD Television Repair Technician. During my time there, I acquired in-depth knowledge in identifying and troubleshooting LCD television issues, working with a wide variety of models and technologies. My experience included diagnosis, teamwork, problem-solving, and customer service. This experience strengthened my technical expertise and my ability to provide effective solutions. For more information:";
+  document.querySelector(".estudio-intership-description a").textContent = "Click Here";
   document.querySelector(".skills-title a").textContent = "Download Certificates";
   document.querySelectorAll(".skills-skill")[0].textContent = "IBM Z Xplore Concepts";
   document.querySelectorAll(".skills-skill")[1].textContent = "IBM Z Xplore Advance";
@@ -112,7 +113,8 @@ function translateToES() {
   document.querySelector(".estudio-intership").textContent = "Electronic Service AS1";
   document.querySelector(".estudio-intership-position").textContent = "Técnico en reparación de televisores";
   document.querySelector(".estudio-intership-description").textContent =
-    "En Electronic Service AS1, tuve el privilegio de desempeñar el rol de técnico en reparación de televisores LCD. Durante mi tiempo allí, adquirí un profundo conocimiento en la identificación y solución de problemas en televisores LCD, trabajando con una amplia variedad de modelos y tecnologías. Mi experiencia incluyó el diagnóstico, trabajo en equipo, solución de problemas y atención al cliente. Esta experiencia fortaleció mi destreza técnica y mi capacidad para brindar soluciones efectivas.";
+    "En Electronic Service AS1, tuve el privilegio de desempeñar el rol de técnico en reparación de televisores LCD. Durante mi tiempo allí, adquirí un profundo conocimiento en la identificación y solución de problemas en televisores LCD, trabajando con una amplia variedad de modelos y tecnologías. Mi experiencia incluyó el diagnóstico, trabajo en equipo, solución de problemas y atención al cliente. Esta experiencia fortaleció mi destreza técnica y mi capacidad para brindar soluciones efectivas. Para mas información:";
+  document.querySelector(".estudio-intership-description a").textContent = "Hacer click Aquí";
   document.querySelector(".skills-title a").textContent = "Descargar Certificados";
   document.querySelectorAll(".skills-skill")[0].textContent = "IBM Z Xplore Concepts";
   document.querySelectorAll(".skills-skill")[1].textContent = "IBM Z Xplore Advance";
