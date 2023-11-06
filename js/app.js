@@ -75,6 +75,9 @@ function translateToEN() {
   document.querySelectorAll(".skills-skill")[5].textContent = "Residential Electrical Installations";
   document.querySelectorAll(".skills-skill")[6].textContent = "Python 101 for Data Science";
   document.querySelectorAll(".skills-skill")[7].textContent = "High School Diploma";
+  document.querySelectorAll(".skills-skill")[8].textContent = "IBM COBOL Basics";
+  document.querySelectorAll(".skills-skill")[9].textContent = "CISCO Introduction to cibersegurity";
+  document.querySelectorAll(".skills-skill")[10].textContent = "IBM Programming with VSCode";
 
   // ...
   document.querySelector(".contact-title").textContent = "Contact";
@@ -116,14 +119,17 @@ function translateToES() {
     "En Electronic Service AS1, tuve el privilegio de desempeñar el rol de técnico en reparación de televisores LCD. Durante mi tiempo allí, adquirí un profundo conocimiento en la identificación y solución de problemas en televisores LCD, trabajando con una amplia variedad de modelos y tecnologías. Mi experiencia incluyó el diagnóstico, trabajo en equipo, solución de problemas y atención al cliente. Esta experiencia fortaleció mi destreza técnica y mi capacidad para brindar soluciones efectivas. Para mas información:";
   document.querySelector(".estudio-intership-description a").textContent = "Hacer click Aquí";
   document.querySelector(".skills-title a").textContent = "Descargar Certificados";
-  document.querySelectorAll(".skills-skill")[0].textContent = "IBM Z Xplore Concepts";
-  document.querySelectorAll(".skills-skill")[1].textContent = "IBM Z Xplore Advance";
-  document.querySelectorAll(".skills-skill")[2].textContent = "Nivel B1 en Inglés Busuu";
+  document.querySelectorAll(".skills-skill")[0].textContent = "IBM Z Xplore Conceptos";
+  document.querySelectorAll(".skills-skill")[1].textContent = "IBM Z Xplore Avanzado";
+  document.querySelectorAll(".skills-skill")[2].textContent = "BUSUU Nivel B1 en Inglés";
   document.querySelectorAll(".skills-skill")[3].textContent = "Arquitectura de Computadoras";
   document.querySelectorAll(".skills-skill")[4].textContent = "Electronic Service AS1";
   document.querySelectorAll(".skills-skill")[5].textContent = "Instalaciones Eléctricas Domiciliarias";
   document.querySelectorAll(".skills-skill")[6].textContent = "Python 101 para Ciencia de Datos";
   document.querySelectorAll(".skills-skill")[7].textContent = "Título de Bachiller";
+  document.querySelectorAll(".skills-skill")[8].textContent = "IBM COBOL Básico";
+  document.querySelectorAll(".skills-skill")[9].textContent = "CISCO Introducción a la ciberseguridad";
+  document.querySelectorAll(".skills-skill")[10].textContent = "IBM Programación con VSCode";
   document.querySelector(".contact-title").textContent = "Contacto";
   document.querySelectorAll(".contact-label")[0].textContent = "Dirección:";
   document.querySelectorAll(".contact-text")[0].textContent = "Casa n° 51, Calle Vargas y Los Indios, Palmar Este, La Guaira, Venezuela";
