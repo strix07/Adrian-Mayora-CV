@@ -60,7 +60,7 @@ function translateToEN() {
   document.querySelector(".estudio-university-description").textContent =
     "At Simón Bolívar University, my training as a Electronic Technician allowed me to acquire strong technical skills in both hardware and software and foster my passion for technology. These years were crucial for my professional development and commitment to excellence in the field.";
 
-  document.querySelector(".estudio-intership-date").textContent = "Apr-Jul 2023";
+  document.querySelector(".estudio-intership-date").textContent = "Apr-Dic 2023";
   document.querySelector(".estudio-intership").textContent = "Electronic Service AS1";
   document.querySelector(".estudio-intership-position").textContent = "Television Repair Technician";
   document.querySelector(".estudio-intership-description").textContent =
@@ -112,7 +112,7 @@ function translateToES() {
   document.querySelector(".estudio-university-position").textContent = "Técnico Superior en Electrónica";
   document.querySelector(".estudio-university-description").textContent =
     "En la Universidad Simón Bolívar, mi formación como técnico superior en electrónica me permitió adquirir sólidas habilidades técnicas tanto en hardware como en software, y fomentar mi pasión por la tecnología. Estos años fueron fundamentales para mi desarrollo profesional y compromiso con la excelencia en el campo.";
-  document.querySelector(".estudio-intership-date").textContent = "Abr-Jul 2023";
+  document.querySelector(".estudio-intership-date").textContent = "Abr-Dic 2023";
   document.querySelector(".estudio-intership").textContent = "Electronic Service AS1";
   document.querySelector(".estudio-intership-position").textContent = "Técnico en reparación de televisores";
   document.querySelector(".estudio-intership-description").textContent =
@@ -140,7 +140,7 @@ function translateToES() {
   document.querySelector('label[for="email"]').textContent = "Email";
   document.querySelector('label[for="message"]').textContent = "Mensaje";
   document.querySelector(".contact-form-submit").textContent = "Enviar";
-  document.querySelector(".profile-btn").setAttribute("href", "/pdf/Adrian Mayora CV - Spanish.pdf");
+  document.querySelector(".profile-btn").setAttribute("href", "/pdf/Adrian Mayora CV.pdf");
 }
 
 const langSwitcher = document.querySelector(".lang-switcher");
