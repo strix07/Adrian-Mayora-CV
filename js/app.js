@@ -78,7 +78,7 @@ function translateToEN() {
   document.querySelectorAll(".skills-skill")[8].textContent = "IBM COBOL Basics";
   document.querySelectorAll(".skills-skill")[9].textContent = "CISCO Introduction to cibersegurity";
   document.querySelectorAll(".skills-skill")[10].textContent = "IBM Programming with VSCode";
-
+  document.querySelectorAll(".skills-skill")[11].textContent = "Electronic technician";
   // ...
   document.querySelector(".contact-title").textContent = "Contact";
   document.querySelectorAll(".contact-label")[0].textContent = "Address:";
@@ -130,6 +130,7 @@ function translateToES() {
   document.querySelectorAll(".skills-skill")[8].textContent = "IBM COBOL Básico";
   document.querySelectorAll(".skills-skill")[9].textContent = "CISCO Introducción a la ciberseguridad";
   document.querySelectorAll(".skills-skill")[10].textContent = "IBM Programación con VSCode";
+  document.querySelectorAll(".skills-skill")[11].textContent = "TSU en electrónica";
   document.querySelector(".contact-title").textContent = "Contacto";
   document.querySelectorAll(".contact-label")[0].textContent = "Dirección:";
   document.querySelectorAll(".contact-text")[0].textContent = "Casa n° 51, Calle Vargas y Los Indios, Palmar Este, La Guaira, Venezuela";
